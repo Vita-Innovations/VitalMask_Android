@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">VitalMask</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">John Doe</string>
+    <string name="nav_header_subtitle">john_doe@email.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="credits">Credits here</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_chart">Chart</string>
+    <string name="menu_history">History</string>
+    <string name="menu_device">Connect Device</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="home_fragment_1">You are Strain Free!</string>
+    <string name="home_fragment_2">Last strain: 2hr 12min 5s</string>
+
+    <string name="chart_fragment_1">Pick Date</string>
+    <string name="chart_fragment_2">Back to Present</string>
+
+    <string name="home_second">Home Second</string>
+
+    <string name="login_password">Password</string>
+    <string name="login_button">Login</string>
+    <string name="edit_message">Full Name</string>
+
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="disable_notifications">Disable Notifications</string>
+    <string name="notify">Create Sample Notification</string>
+
+    <string name="buzz_label">Shirt Settings</string>
+
+    <string name="enable_buzz">Adjust Sensitivity</string>
+    <string name="disable_buzz">Calibrate Sensors</string>
+    <string name="test_buzz">Adjust Feedback</string>
+
+    <string name="main_notification_channel">Notifications</string>
+    <string name="main_notification_channel_description">This is the main channel for API 26 and higher
+    for notifications for VitalMask.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
